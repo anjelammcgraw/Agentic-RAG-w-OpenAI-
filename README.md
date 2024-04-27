@@ -1,6 +1,6 @@
 # 🤖 OpenAI Assistants - Building Agentic RAG with the Function Calling, Retrieval and Code Interpreter Tools
 
-In this repo, we'll build Agentic RAG with OpenAI with the Function Calling, Retrieval, and Code Interpreter Tools. This project was done during week 2 of AI Makerspace's AI Engineering Bootcamp Cohort 1 (AIE1).
+In this repo, we'll build Agentic RAG with OpenAI with the Function Calling, Retrieval, and Code Interpreter Tools. 
 
 ### ⚙️The colab link to the code is found and (will also be included in this repo) [here.](https://colab.research.google.com/drive/1OR0dpmer4AFPwvKvA3e5dW8C_lU8o2D3?usp=sharing)
 
